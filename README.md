@@ -1,2 +1,2 @@
 # SASVA_Film_Analysis
-Descriptive statistics to understand what makes a blockbuster
+What makes a Hollywood blockbuster a box office hit? Here, we explore data preparation techniques and generalised linear models to understand the factors that contribute to a film's success. We use SAS Visual Analytics (SASVA) to perform this analysis. The repository contains a report summarising the methodology, results and final conclusions, as well as a powerpoint deck of slides showing greater detail of data visuals and models explored. 
